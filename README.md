@@ -30,4 +30,4 @@ Se você gostaria de contribuir para este projeto, sinta-se à vontade para abri
 
 ## Autor
 
-Este projeto foi desenvolvido por Diogo Dos Santos.
+Este projeto foi desenvolvido por [Diogo Dos Santos](https://github.com/diogosilvadossantos).
